@@ -123,4 +123,6 @@ A continuación, se comparte el proceso a seguir.
 **1. Configuración de la Base de Datos.**
 En el siguiente [enlace](https://github.com/camilomejiar/Curso-Introducci-n-a-la-Base-de-Datos-con-PostgreSQL..git) podra revisar como descargar y establecer **PostgreSQL** como el motor de la base de datos del proyecto.
 
-**2. Creacion de las tabla.** Agregue el codigo indexado script/BDautoelite.sql
+**2. Creacion de las tabla.** Agregue el codigo indexado scripts/BDautoelite.sql
+![tablaautoelite](https://github.com/camilomejiar/Project_BD_Concesionario_PostgreSQL/assets/101876440/bbf072f4-b7f8-4cdf-a6ab-fa44dd392702)
+
