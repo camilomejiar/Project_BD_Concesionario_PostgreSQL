@@ -124,5 +124,11 @@ A continuación, se comparte el proceso a seguir.
 En el siguiente [enlace](https://github.com/camilomejiar/Curso-Introducci-n-a-la-Base-de-Datos-con-PostgreSQL..git) podra revisar como descargar y establecer **PostgreSQL** como el motor de la base de datos del proyecto.
 
 **2. Creacion de las tabla.** Agregue el codigo indexado scripts/BDautoelite.sql
+
 ![tablaautoelite](https://github.com/camilomejiar/Project_BD_Concesionario_PostgreSQL/assets/101876440/bbf072f4-b7f8-4cdf-a6ab-fa44dd392702)
 
+**3. Cargar la Base de Datos.** Ejecute el scripts/BD_autoelite_insert.sql en la base d datos.
+
+![BDautoelite](https://github.com/camilomejiar/Project_BD_Concesionario_PostgreSQL/assets/101876440/1c23bf18-aa4f-43b8-99eb-d4d3099310fb)
+
+Al ejecutarlo le deben registrar **22685** filas, la cual indica que se cuenta con la base de datos completa
